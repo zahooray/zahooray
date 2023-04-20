@@ -1,8 +1,8 @@
-<h1 align="center">Hello World, Mr.Zahoor Ahmad</h1>
+<h1 align="center">Hello World, <a href="github.com/ZahoorOnly">Mr. Zahoor Ahmad</a> here;</h1>
 <h3 align="center">A Frontend Developer From Pakistan 🇵🇰</h3>
 
 <p align="left"> <a href="https://twitter.com/zahooronly" target="blank"><img src="https://img.shields.io/twitter/follow/zahooronly?logo=twitter&style=for-the-badge" alt="zahooronly" /></a> </p>
-
+<img alt="coding" align="right" width="400" src="https://user-images.githubusercontent.com/105358562/233366553-44b0df29-b15f-4d54-9f38-c542aececf43.png">
 - 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **NextJS, ReactJS**
@@ -19,7 +19,6 @@
 <a href="https://kaggle.com/zahoordev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zahoordev" height="30" width="40" /></a>
 <a href="https://fb.com/onlyzahoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="onlyzahoor" height="30" width="40" /></a>
 <a href="https://instagram.com/zahooronly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zahooronly" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@zahooronly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@zahooronly" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/zahooronly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zahooronly" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/zahooronly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zahooronly" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zahooronly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zahooronly" height="30" width="40" /></a>
