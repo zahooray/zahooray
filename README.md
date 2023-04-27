@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **NextJS, ReactJS**
 
-- 📫 How to reach me **dev.zahoor@gmail.com**
+- 📫 How to reach me **linkedin.com/in/ZahoorOnly**
 
 - ⚡ Fun Fact **I think I'm Funny 🥴**
 
@@ -28,7 +28,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" ><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
+<p align="left"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
             alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
         rel="noreferrer"> <img
