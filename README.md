@@ -4,7 +4,7 @@
 <!-- <p align="left"> <a href="https://twitter.com/zahooronly" target="blank"><img
             src="https://img.shields.io/twitter/follow/zahooronly?logo=twitter&style=for-the-badge"
             alt="zahooronly" /></a> </p> -->
-<img alt="coding" align="right" width="400" height="400"
+<img alt="coding" align="right" width="400" height="350"
     src="https://user-images.githubusercontent.com/105358562/233367416-f5f8a3fe-8411-4235-b27c-9bba70d13134.png">
 - 🌱 I’m currently learning **Data Science**
 
@@ -63,7 +63,11 @@
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a></p>
-
+<p>                </P
+<p>                </P
+<p>                </P
+<p>                </P
+<p>                </P
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=zahooronly&show_icons=true&locale=en&layout=compact"
         alt="zahooronly" height="200" style="margin-top: 20px;" /></p>
