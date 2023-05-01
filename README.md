@@ -63,17 +63,13 @@
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a></p>
-<p>                </P
-<p>                </P
-<p>                </P
-<p>                </P
-<p>                </P
+
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=zahooronly&show_icons=true&locale=en&layout=compact"
         alt="zahooronly" height="200" style="margin-top: 20px;" /></p>
 
-<p>&nbsp;<img align="center"
+<!-- <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=zahooronly&show_icons=true&locale=en" alt="zahooronly"
-        height="200" /></p>
+        height="200" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahooronly&" alt="zahooronly" /></p>
