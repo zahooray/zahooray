@@ -8,7 +8,7 @@
     
 - 🌱 I’m currently learning  **Data Science**
 
-- 💬 Ask me about **NextJS, ReactJS**
+- 💬 Ask me about **NextJS, ReactJS, React-Native**
 
 - 📫 How to reach me **linkedin.com/in/ZahoorOnly**
 
