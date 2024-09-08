@@ -7,6 +7,7 @@
 <img alt="coding" align="right" width="400" height="350"
     src="https://user-images.githubusercontent.com/105358562/233367416-f5f8a3fe-8411-4235-b27c-9bba70d13134.png">
     <br/><br/>
+    
 - 🌱 I’m currently learning  **Data Science**
 
 - 💬 Ask me about **NextJS, ReactJS, React-Native**
