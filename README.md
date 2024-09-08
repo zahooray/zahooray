@@ -80,26 +80,23 @@
 </p>
 
 <br/>
-
-<div align="center">
-  <h2>GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=ZahoorOnly&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200" width="100%" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZahoorOnly&theme=dark&hide_border=false" alt="Streak Stats" height="200" width="100%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahoorOnly&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200" width="100%" />
-</div>
-
 <br/>
-
+<div align="center">
+  <h2>GitHub Stats</h2><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZahoorOnly&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="300" width="2000" /><br/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZahoorOnly&theme=dark&hide_border=false" alt="Streak Stats" height="300" width="1000" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahoorOnly&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="300" width="1000" />
+</div>
 <h2 align="center">Top Contributed Repos:</h2>
+<br/><br/>
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ZahoorOnly&limit=5&theme=onedark&combine_all_yearly_contributions=true" alt="Top Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=ZahoorOnly&limit=5&theme=onedark&combine_all_yearly_contributions=true" alt="Top Repos" height="300" width="1000"  />
 </div>
-
 <br/>
-
 <h2 align="center">🌐 Socials:</h2>
+<br/><br/>
 <p align="center">
   <a href="https://facebook.com/OnlyZahoor" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
@@ -118,8 +115,6 @@
   </a>
 </p>
 
-<br/>
-
 <h2 align="center">💻 Tech Stack:</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -136,31 +131,10 @@
 </p>
 
 <br/>
-
-<h2 align="center">📊 GitHub Stats:</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZahoorOnly&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200" width="100%" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZahoorOnly&theme=dark&hide_border=false" alt="Streak Stats" height="200" width="100%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahoorOnly&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200" width="100%" />
-</div>
-
-<br/>
-
-<h2 align="center">🔝 Top Contributed Repos:</h2>
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ZahoorOnly&limit=5&theme=onedark&combine_all_yearly_contributions=true" alt="Top Repos" />
-</div>
-
-<br/>
-
 <h2 align="center">📈 Visit Count:</h2>
 <p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=ZahoorOnly&icon=0&color=0" alt="Visit Count" />
   </a>
 </p>
-
----
 
