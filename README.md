@@ -1,7 +1,7 @@
 <h1 align="center">Hello World <a href="github.com/ZahoorOnly">Zahoor Ahmad! </a>here</h1>
 <h3 align="center">A Full Stack Developer From Pakistan 🇵🇰 </h3>
 
-<p align="left"> <a href="https://twitter.com/zahooronly" target="blank"><img
+<p align="center"> <a href="https://github.com/zahooronly" target="blank"><img
             src="https://img.shields.io/twitter/follow/zahooronly?logo=twitter&style=for-the-badge"
             alt="zahooronly" /></a> </p>
 <img alt="coding" align="right" width="400" height="350"
