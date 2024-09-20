@@ -1,12 +1,14 @@
 <h1 align="center">Hello World <a href="github.com/ZahoorOnly">Zahoor Ahmad! </a>here</h1>
 <h3 align="center">A Full Stack Developer From Pakistan 🇵🇰 </h3>
 
+<hr/>
 <p align="center"> <a href="https://github.com/zahooronly" target="blank"><img
             src="https://img.shields.io/twitter/follow/zahooronly?logo=twitter&style=for-the-badge"
             alt="zahooronly" /></a> </p>
+
 <img alt="coding" align="right" width="400" height="350"
     src="https://user-images.githubusercontent.com/105358562/233367416-f5f8a3fe-8411-4235-b27c-9bba70d13134.png">
-    <br/><br/> <br/> <br/>
+    <br/><br/>  <br/> <br/>
     
 - 🌱 I’m currently learning  **Data Science**
 
@@ -17,9 +19,12 @@
   </a>
 
 - ⚡ Fun Fact **I think I'm Funny 🥴**
-<br/><br/>
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
+<br/>
+<br/><br/><br/>
+<hr/>
+
+<h3 align="center">Connect with Me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/zahooronly" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -30,10 +35,11 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
-<br/>
+<hr/>
 <br/>
 
 <h2 align="center">Languages and Tools:</h2>
+<br/>
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
@@ -80,7 +86,6 @@
 </p>
 
 <br/>
-<br/>
 <div align="center">
   <h2>GitHub Stats</h2><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=ZahoorOnly&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="300" width="2000" /><br/>
@@ -96,7 +101,7 @@
 </div>
 <br/>
 <h2 align="center">🌐 Socials:</h2>
-<br/><br/>
+<br/>
 <p align="center">
   <a href="https://facebook.com/OnlyZahoor" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
@@ -114,8 +119,10 @@
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" />
   </a>
 </p>
+<br/>
 
 <h2 align="center">💻 Tech Stack:</h2>
+<br/>
 <p align="center">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -130,14 +137,12 @@
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-<br/>
 <h2 align="center">📈 Visit Count:</h2>
-
-
 <br/>
 <p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=ZahoorOnly&icon=0&color=0" alt="Visit Count" />
   </a>
 </p>
-
+<br/>
+<hr/>
