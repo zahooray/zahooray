@@ -16,14 +16,22 @@
   </p>
 </div>
 
-<!-- About Me Section -->
-<div style="padding: 10px 20px;">
-  <h3>👨‍💻 About Me</h3>
-  <ul style="list-style: none; padding-left: 0;">
-    <li>🔭 Currently focusing on <strong>Data Science</strong></li>
-    <li>💬 Expert in <strong>NextJS, ReactJS, React-Native</strong></li>
-    <li>📫 Reach me on <a href="https://linkedin.com/in/ZahoorOnly">LinkedIn</a></li>
-  </ul>
+<!-- About Me and Streak Section -->
+<div style="display: flex; justify-content: space-between; align-items: start; gap: 5%; margin: 20px 0;">
+  <!-- About Me Section -->
+  <div style="width: 60%; padding: 10px 20px;">
+    <h3>👨‍💻 About Me</h3>
+    <ul style="list-style: none; padding-left: 0;">
+      <li>🔭 Currently focusing on <strong>Data Science</strong></li>
+      <li>💬 Expert in <strong>NextJS, ReactJS, React-Native</strong></li>
+      <li>📫 Reach me on <a href="https://linkedin.com/in/ZahoorOnly">LinkedIn</a></li>
+    </ul>
+  </div>
+  
+  <!-- Contribution Streak -->
+  <div style="width: 35%;">
+    <img width="100%" src="https://streak-stats.demolab.com?user=ZahoorOnly&theme=dark&background=212830&border=30363D&stroke=FFFFFF&ring=FFFFFF&fire=FFB400&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=666666&hide_border=true" />
+  </div>
 </div>
 
 <div align="center">
@@ -89,9 +97,9 @@
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZahoorOnly&theme=transparent&bg_color=transparent&text_color=ffffff&title_color=ffffff&border_color=ffffff&stroke_color=ffffff&line_color=ffffff" />
 </div>
 
-<!-- Profile Views Counter with New Style -->
+<!-- Profile Views Counter - Using previous counter to maintain history -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZahoorOnly&style=flat-square&color=000000&bg_color=ffffff" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ZahoorOnly&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 </div>
