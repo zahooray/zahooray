@@ -30,7 +30,7 @@
   
   <!-- Contribution Streak -->
   <div style="width: 35%;">
-    <img width="100%" src="https://streak-stats.demolab.com?user=ZahoorOnly&theme=dark&background=212830&border=30363D&stroke=FFFFFF&ring=FFFFFF&fire=FFB400&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=666666&hide_border=true" />
+    <img width="100%" src="https://streak-stats.demolab.com?user=ZahoorOnly&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </div>
 </div>
 
