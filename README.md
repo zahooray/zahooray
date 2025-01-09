@@ -29,46 +29,8 @@
   </div>
   
   <!-- Contribution Streak -->
-  <div style="width: 35%; background: linear-gradient(135deg, rgba(42,52,65,0.95) 0%, rgba(31,41,55,0.95) 100%); backdrop-filter: blur(10px); border-radius: 12px; padding: 24px; box-shadow: 0 8px 32px rgba(0,0,0,0.2); border: 1px solid rgba(255,255,255,0.08);">
-    <!-- Header -->
-    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-      <div style="font-size: 14px; color: rgba(255,255,255,0.8); letter-spacing: 0.5px; font-weight: 500;">
-        CONTRIBUTION STREAK
-      </div>
-      <div style="padding: 4px 8px; background: rgba(255,255,255,0.08); border-radius: 6px; font-size: 12px; color: rgba(255,255,255,0.6);">
-        2024
-      </div>
-    </div>
-
-    <!-- Main Streak Counter -->
-    <div style="padding: 16px 0;">
-      <div style="font-size: 48px; font-weight: 700; font-family: 'SF Mono', monospace; background: linear-gradient(135deg, #ffffff 0%, #a5a5a5 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-        42
-        <span style="font-size: 16px; background: none; -webkit-text-fill-color: #FFB400;">🔥</span>
-      </div>
-      <div style="font-size: 14px; color: rgba(255,255,255,0.5); margin-top: 4px;">
-        days in a row
-      </div>
-    </div>
-
-    <!-- Stats Grid -->
-    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 16px;">
-      <!-- Current -->
-      <div style="background: rgba(255,255,255,0.03); padding: 12px; border-radius: 8px; text-align: center; transition: all 0.3s;">
-        <div style="font-size: 20px; font-weight: 600; color: #ffffff; font-family: 'SF Mono', monospace;">42</div>
-        <div style="font-size: 11px; color: rgba(255,255,255,0.5); margin-top: 4px; text-transform: uppercase; letter-spacing: 0.5px;">Current</div>
-      </div>
-      <!-- Best -->
-      <div style="background: rgba(255,255,255,0.03); padding: 12px; border-radius: 8px; text-align: center; transition: all 0.3s;">
-        <div style="font-size: 20px; font-weight: 600; color: #ffffff; font-family: 'SF Mono', monospace;">365</div>
-        <div style="font-size: 11px; color: rgba(255,255,255,0.5); margin-top: 4px; text-transform: uppercase; letter-spacing: 0.5px;">Best</div>
-      </div>
-      <!-- Total -->
-      <div style="background: rgba(255,255,255,0.03); padding: 12px; border-radius: 8px; text-align: center; transition: all 0.3s;">
-        <div style="font-size: 20px; font-weight: 600; color: #ffffff; font-family: 'SF Mono', monospace;">1.3k</div>
-        <div style="font-size: 11px; color: rgba(255,255,255,0.5); margin-top: 4px; text-transform: uppercase; letter-spacing: 0.5px;">Total</div>
-      </div>
-    </div>
+  <div style="width: 35%;">
+    <img width="100%" src="https://streak-stats.demolab.com?user=ZahoorOnly&theme=dark&background=212830&border=30363D&stroke=FFFFFF&ring=FFFFFF&fire=FFB400&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=666666&hide_border=true" />
   </div>
 </div>
 
@@ -135,9 +97,9 @@
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZahoorOnly&theme=transparent&bg_color=transparent&text_color=ffffff&title_color=ffffff&border_color=ffffff&stroke_color=ffffff&line_color=ffffff" />
 </div>
 
-<!-- Profile Views Counter - Using previous counter to maintain history -->
+<!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZahoorOnly&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Profile_Views-doesn't_matter-%23212830.svg?style=flat-square&logoColor=white" alt="Profile Views"/>
 </div>
 
 </div>
