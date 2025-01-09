@@ -1,3 +1,5 @@
+<div style="background-color: #0D1117; color: #ffffff; padding: 20px; width: 100%; min-height: 100vh;">
+
 <div align="center" style="background-color: #0D1117; color: #ffffff; padding: 20px;">
   <h1>Zahoor Ahmad</h1>
   <p>Full Stack Developer | Pakistan 🇵🇰</p>
@@ -16,7 +18,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZahoorOnly&show_icons=true&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=ffffff&icon_color=ffffff" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZahoorOnly&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZahoorOnly&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&stroke=ffffff" height="160"/>
 </div>
 
 <br/>
@@ -76,15 +78,16 @@
 
 ### 📊 GitHub Activity Graph
 
-[![Zahoor's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZahoorOnly&theme=minimal&hide_border=true&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_title=true&custom_title=&grid_color=ffffff&title_color=ffffff)](https://github.com/ZahoorOnly)
+[![Zahoor's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZahoorOnly&theme=minimal&hide_border=true&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=30363D&hide_title=true&custom_title=&grid_color=ffffff&title_color=ffffff)](https://github.com/ZahoorOnly)
 
 <div align="center">
   
 #### 📊 Contribution Statistics
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZahoorOnly&theme=github_dark&bg_color=0D1117&border_color=30363D&text_color=ffffff&title_color=ffffff" />
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahoorOnly&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=ffffff&layout=compact" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahoorOnly&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=ffffff&layout=compact" alt="Top Languages"/>
 
 <img src="https://komarev.com/ghpvc/?username=ZahoorOnly&style=flat-square&color=ffffff&bg_color=0D1117" alt="Profile Views"/>
 </div>
+
 </div>
