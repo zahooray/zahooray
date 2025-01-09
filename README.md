@@ -1,6 +1,6 @@
-<div style="background-color: #212830; color: #ffffff; padding: 20px; width: 100%; min-height: 100vh;">
+<div style="background-color: #212830; color: #ffffff; padding: 10px; width: 100%; min-height: 100vh;">
 
-<div align="center" style="background-color: #212830; color: #ffffff; padding: 20px;">
+<div align="center" style="background-color: #212830; color: #ffffff; padding: 10px;">
   <h1>Zahoor Ahmad</h1>
   <p>Full Stack Developer | Pakistan 🇵🇰</p>
   
@@ -10,39 +10,44 @@
   [![LeetCode](https://img.shields.io/badge/LeetCode-%23ffffff.svg?style=flat-square&logo=leetcode&logoColor=0D1117)](https://leetcode.com/ZahoorOnly)
 </div>
 
-<div align="center" style="background-color: #212830; color: #ffffff; padding: 20px;">
+<div align="center" style="background-color: #212830; color: #ffffff; padding: 0 10px;">
   <p>
     Passionate Full Stack Developer with expertise in modern web technologies. Focused on creating scalable and efficient solutions using Next.js, React, and Node.js. Currently exploring the realms of AI and Data Science to bring innovative solutions to complex problems.
   </p>
 </div>
 
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZahoorOnly&show_icons=true&hide_border=true&bg_color=212830&text_color=ffffff&title_color=ffffff&icon_color=ffffff" height="160"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZahoorOnly&hide_border=true&background=212830&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&stroke=ffffff" height="160"/>
-  </div>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahoorOnly&hide_border=true&bg_color=212830&text_color=ffffff&title_color=ffffff&layout=compact" alt="Top Languages"/>
+<!-- About Me Section -->
+<div style="padding: 10px 20px;">
+  <h3>👨‍💻 About Me</h3>
+  <ul style="list-style: none; padding-left: 0;">
+    <li>🔭 Currently focusing on <strong>Data Science</strong></li>
+    <li>💬 Expert in <strong>NextJS, ReactJS, React-Native</strong></li>
+    <li>📫 Reach me on <a href="https://linkedin.com/in/ZahoorOnly">LinkedIn</a></li>
+  </ul>
 </div>
 
-<br/>
+<div align="center">
+  <!-- Activity Graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZahoorOnly&theme=minimal&hide_border=true&bg_color=212830&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=30363D&hide_title=true&custom_title=&grid_color=ffffff&title_color=ffffff" />
+</div>
 
-### 👨‍💻 About Me
+<!-- GitHub Stats and Languages -->
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZahoorOnly&show_icons=true&hide_border=true&bg_color=212830&text_color=ffffff&title_color=ffffff&icon_color=ffffff" height="160"/>
+  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahoorOnly&hide_border=true&bg_color=212830&text_color=ffffff&title_color=ffffff&layout=compact" />
+</div>
 
-- 🔭 Currently focusing on **Data Science**
-- 💬 Expert in **NextJS, ReactJS, React-Native**
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/ZahoorOnly)
-
-### 🛠 Tech Stack
+# <div align="center">🛠 Tech Stack</div>
 
 <div align="center" style="background-color: #212830; color: #ffffff; padding: 20px;">
 
-#### Currently Learning
+#### <div align="center">Currently Learning</div>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-#### Frontend Development
+#### <div align="center">Frontend Development</div>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -79,16 +84,14 @@
 
 </div>
 
-### 📊 GitHub Activity Graph
+<!-- Contribution Statistics with Transparent Background -->
+<div align="center" style="margin: 20px 0;">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZahoorOnly&theme=transparent&bg_color=transparent&text_color=ffffff&title_color=ffffff&border_color=ffffff&stroke_color=ffffff&line_color=ffffff" />
+</div>
 
-[![Zahoor's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZahoorOnly&theme=minimal&hide_border=true&bg_color=212830&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=30363D&hide_title=true&custom_title=&grid_color=ffffff&title_color=ffffff)](https://github.com/ZahoorOnly)
-
+<!-- Profile Views Counter with New Style -->
 <div align="center">
-  
-#### 📊 Contribution Statistics
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZahoorOnly&theme=github_dark&bg_color=212830&border_color=30363D&text_color=ffffff&title_color=ffffff" />
-
-<img src="https://komarev.com/ghpvc/?username=ZahoorOnly&style=flat-square&color=ffffff&bg_color=212830" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ZahoorOnly&style=flat-square&color=000000&bg_color=ffffff" alt="Profile Views"/>
 </div>
 
 </div>
