@@ -17,7 +17,7 @@
 </div>
 
 <!-- About Me and Streak Section -->
-<div style="display: flex; justify-content: space-between; align-items: start; gap: 5%; margin: 20px 0;">
+<div style="display: flex; justify-content: space-between; align-items: start; gap: 3%;">
   <!-- About Me Section -->
   <div style="width: 60%; padding: 10px 20px;">
     <h3>👨‍💻 About Me</h3>
@@ -29,8 +29,8 @@
   </div>
   
   <!-- Contribution Streak -->
-  <div style="width: 35%;">
-    <img width="100%" src="https://streak-stats.demolab.com?user=ZahoorOnly&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <div style="width: 30%;">
+    <img width="35%" src="https://streak-stats.demolab.com?user=ZahoorOnly&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </div>
 </div>
 
