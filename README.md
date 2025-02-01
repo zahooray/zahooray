@@ -17,21 +17,22 @@
 </div>
 
 <!-- About Me and Streak Section -->
-<div style="display: flex; justify-content: space-between; align-items: start; gap: 3%;">
-  <!-- About Me Section -->
-  <div style="width: 60%; padding: 10px 20px;">
-    <h3>👨‍💻 About Me</h3>
-    <ul style="list-style: none; padding-left: 0;">
-      <li>🔭 Currently focusing on <strong>Data Science</strong></li>
-      <li>💬 Expert in <strong>NextJS, ReactJS, React-Native</strong></li>
-      <li>📫 Reach me on <a href="https://linkedin.com/in/ZahoorOnly">LinkedIn</a></li>
-    </ul>
-  </div>
-  
-  <!-- Contribution Streak -->
-  <div style="width: 30%;">
-    <img width="35%" src="https://streak-stats.demolab.com?user=ZahoorOnly&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </div>
+<div align="center">
+<table>
+  <tr>
+    <td width="60%">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🔭 Currently focusing on <strong>Data Science</strong></li>
+        <li>💬 Expert in <strong>NextJS, ReactJS, React-Native</strong></li>
+        <li>📫 Reach me on <a href="https://linkedin.com/in/ZahoorOnly">LinkedIn</a></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://streak-stats.demolab.com?user=ZahoorOnly&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 </div>
 
 <div align="center">
