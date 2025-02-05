@@ -1,9 +1,8 @@
 <div style="background-color: #212830; color: #ffffff; padding: 10px; width: 100%; min-height: 100vh;">
 
 <div align="center" style="background-color: #212830; color: #ffffff; padding: 10px;">
-  <h1>Zahoor Ahmad</h1>
-  <p>Full Stack Developer | Pakistan 🇵🇰</p>
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Zahoor+Ahmad;Full+Stack+Developer;And+Learning+Data+Science;Always+Learning+New+Things" alt="Typing SVG" />
+ 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23ffffff.svg?style=flat-square&logo=linkedin&logoColor=0D1117)](https://linkedin.com/in/ZahoorOnly)
   [![GitHub](https://img.shields.io/badge/GitHub-%23ffffff.svg?style=flat-square&logo=github&logoColor=0D1117)](https://github.com/ZahoorOnly)
   [![Medium](https://img.shields.io/badge/Medium-%23ffffff.svg?style=flat-square&logo=medium&logoColor=0D1117)](https://medium.com/@ZahoorOnly)
@@ -34,6 +33,8 @@
   </tr>
 </table>
 </div>
+
+
 
 <div align="center">
   <!-- Activity Graph -->
@@ -101,6 +102,9 @@
 <!-- Profile Views Counter -->
 <div align="center">
   <img src="https://img.shields.io/badge/Profile_Views-doesn't_matter-%23212830.svg?style=flat-square&logoColor=white" alt="Profile Views"/>
+</div>
+<div align="center">
+    <img src="https://img.shields.io/github/followers/zahooronly?label=Followers&style=social" alt="followers" />
 </div>
 
 </div>
