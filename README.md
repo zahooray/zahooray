@@ -29,20 +29,20 @@
   </div>
   
   <!-- Contribution Streak -->
-  <div style="width: 30%;">
-    <img width="35%" src="https://streak-stats.demolab.com?user=ZahoorOnly&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <div style="width: 35%;">
+    <img width="100%" src="https://streak-stats.demolab.com?user=ZahoorOnly&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </div>
 </div>
 
 <div align="center">
   <!-- Activity Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZahoorOnly&theme=minimal&hide_border=true&bg_color=212830&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=30363D&hide_title=true&custom_title=&grid_color=ffffff&title_color=ffffff" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZahoorOnly&theme=minimal&hide_border=true&bg_color=transparent&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=30363D&hide_title=true&custom_title=&grid_color=ffffff&title_color=ffffff" />
 </div>
 
 <!-- GitHub Stats and Languages -->
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZahoorOnly&show_icons=true&hide_border=true&bg_color=212830&text_color=ffffff&title_color=ffffff&icon_color=ffffff" height="160"/>
-  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahoorOnly&hide_border=true&bg_color=212830&text_color=ffffff&title_color=ffffff&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZahoorOnly&show_icons=true&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff" height="160"/>
+  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahoorOnly&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff&layout=compact" />
 </div>
 
 # <div align="center">🛠 Tech Stack</div>
