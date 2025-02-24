@@ -1,9 +1,9 @@
 <div style="background-color: #212830; color: #ffffff; padding: 10px; width: 100%; min-height: 100vh;">
 
-<div align="center" style="background-color: #212830; color: #ffffff; padding: 10px;">
+  <div align="center" style="background-color: #212830; color: #ffffff; padding: 10px;">
   <h1>Zahoor Ahmad</h1>
   <p>Full Stack Developer | Pakistan 🇵🇰</p>
-  
+ 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23ffffff.svg?style=flat-square&logo=linkedin&logoColor=0D1117)](https://linkedin.com/in/ZahoorOnly)
   [![GitHub](https://img.shields.io/badge/GitHub-%23ffffff.svg?style=flat-square&logo=github&logoColor=0D1117)](https://github.com/ZahoorOnly)
   [![Medium](https://img.shields.io/badge/Medium-%23ffffff.svg?style=flat-square&logo=medium&logoColor=0D1117)](https://medium.com/@ZahoorOnly)
@@ -17,22 +17,25 @@
 </div>
 
 <!-- About Me and Streak Section -->
-<div style="display: flex; justify-content: space-between; align-items: start; gap: 3%;">
-  <!-- About Me Section -->
-  <div style="width: 60%; padding: 10px 20px;">
-    <h3>👨‍💻 About Me</h3>
-    <ul style="list-style: none; padding-left: 0;">
-      <li>🔭 Currently focusing on <strong>Data Science</strong></li>
-      <li>💬 Expert in <strong>NextJS, ReactJS, React-Native</strong></li>
-      <li>📫 Reach me on <a href="https://linkedin.com/in/ZahoorOnly">LinkedIn</a></li>
-    </ul>
-  </div>
-  
-  <!-- Contribution Streak -->
-  <div style="width: 35%;">
-    <img width="100%" src="https://streak-stats.demolab.com?user=ZahoorOnly&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </div>
+<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🔭 Currently focusing on <strong>Data Science</strong></li>
+        <li>💬 Expert in <strong>NextJS, ReactJS, React-Native</strong></li>
+        <li>📫 Reach me on <a href="https://linkedin.com/in/ZahoorOnly">LinkedIn</a></li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com?user=ZahoorOnly&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 </div>
+
+
 
 <div align="center">
   <!-- Activity Graph -->
@@ -100,6 +103,9 @@
 <!-- Profile Views Counter -->
 <div align="center">
   <img src="https://img.shields.io/badge/Profile_Views-doesn't_matter-%23212830.svg?style=flat-square&logoColor=white" alt="Profile Views"/>
+</div>
+<div align="center">
+    <img src="https://img.shields.io/github/followers/zahooronly?label=Followers&style=social" alt="followers" />
 </div>
 
 </div>
