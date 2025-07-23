@@ -1,7 +1,9 @@
 <div align="center">
 
 # Zahoor Ahmad
+
 ### Full Stack Developer | Software Engineer
+
 📍 Pakistan 🇵🇰
 
 <div style="margin: 20px 0;">
@@ -24,7 +26,7 @@
 
 ---
 
-*Passionate about creating scalable solutions and exploring AI/Data Science*
+_Passionate about creating scalable solutions and exploring AI/Data Science_
 
 </div>
 
@@ -37,7 +39,7 @@ const zahoor = {
   currentFocus: "Data Science & AI",
   expertise: ["Next.js", "React", "Node.js", "Python"],
   passion: "Building innovative solutions",
-  learning: "Machine Learning & Deep Learning"
+  learning: "Machine Learning & Deep Learning",
 };
 ```
 
@@ -52,6 +54,7 @@ const zahoor = {
 <td valign="top" width="33%">
 
 ### Frontend
+
 - **Frameworks:** Next.js, React
 - **Languages:** TypeScript, JavaScript
 - **Styling:** Tailwind CSS, CSS3
@@ -61,6 +64,7 @@ const zahoor = {
 <td valign="top" width="33%">
 
 ### Backend
+
 - **Runtime:** Node.js
 - **Frameworks:** Express.js, FastAPI
 - **Languages:** Python, JavaScript
@@ -70,6 +74,7 @@ const zahoor = {
 <td valign="top" width="33%">
 
 ### Data & Cloud
+
 - **Databases:** MongoDB, PostgreSQL, MySQL
 - **Cloud:** AWS, Azure, Vercel
 - **Tools:** Docker, Git, Postman
@@ -91,13 +96,13 @@ const zahoor = {
 
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **MHK Mart** | Full-Stack Ecommerce project with admin dashboard built in eBay style | Next.js, Node.js, MongoDB | [Live Site](https://mhkmart.co.uk) |
-| **Franco Shoe** | Full-Stack Ecommerce shoe selling platform with comprehensive admin dashboard | Next.js, Express.js, PostgreSQL | [Live Site](https://www.francoshoe.com) |
-| **RAG News Generator** | BuildWithAI Hackathon Winner - AI-powered content creation tool using RAG techniques | Next.js, Python, FastAPI, AI/ML | [GitHub](https://github.com/zahooronly/aigineers-rag-news-generator) |
-| **FassalAI** | AgriTech Startup - AI-powered agricultural solutions platform | Next.js, FastAPI, TensorFlow | [Live Site](https://fassal-ai.vercel.app) • [Domain](https://fassalai.com) |
-| **CropChain (FYP)** | Cross-platform agricultural ecosystem connecting farmers and researchers | React Native, Next.js, FastAPI | [Mobile App](https://play.google.com/store/apps/details?id=com.cropchain.app) • [Web App](https://fyp-cropchain.vercel.app/) |
+| Project                | Description                                                                          | Tech Stack                      | Links                                                                                                                        |
+| ---------------------- | ------------------------------------------------------------------------------------ | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **MHK Mart**           | Full-Stack Ecommerce project with admin dashboard built in eBay style                | Next.js, Node.js, MongoDB       | [Live Site](https://mhkmart.co.uk)                                                                                           |
+| **Franco Shoe**        | Full-Stack Ecommerce shoe selling platform with comprehensive admin dashboard        | Next.js, Express.js, PostgreSQL | [Live Site](https://www.francoshoe.com)                                                                                      |
+| **RAG News Generator** | BuildWithAI Hackathon Winner - AI-powered content creation tool using RAG techniques | Next.js, Python, FastAPI, AI/ML | [GitHub](https://github.com/zahooronly/aigineers-rag-news-generator)                                                         |
+| **FassalAI**           | AgriTech Startup - AI-powered agricultural solutions platform                        | Next.js, FastAPI, TensorFlow    | [Live Site](https://fassal-ai.vercel.app) • [Domain](https://fassalai.com)                                                   |
+| **CropChain (FYP)**    | Cross-platform agricultural ecosystem connecting farmers and researchers             | React Native, Next.js, FastAPI  | [Mobile App](https://play.google.com/store/apps/details?id=com.cropchain.app) • [Web App](https://fyp-cropchain.vercel.app/) |
 
 </div>
 
