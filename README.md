@@ -116,10 +116,6 @@ const developer = new ZahoorAhmad();
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZahoorOnly&theme=minimal&hide_border=true&bg_color=ffffff&color=000000&line=FF6B6B&point=FF6B6B&area=true&area_color=FFE5E5&height=300" alt="🌊 Contribution Graph"/>
 
-### 🏆 **ACHIEVEMENT SHOWCASE**
-
-<img src="https://github-profile-trophy.vercel.app/?username=ZahoorOnly&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="🏆 GitHub Trophies"/>
-
 </div>
 
 ---
