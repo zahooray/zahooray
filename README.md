@@ -15,7 +15,7 @@
 - 🛠️ T3 Stack, MERN, React Native, Python & FastAPI
 - 🧬 Learning: LangChain, XAI, ML/DL, Web Scraping
 - 🚀 Building [Portfolio](https://zahooronly.vercel.app)
-- ✍️ Sharing thoughts on [Medium](https://medium.com/@ZahoorOnly) & [LinkedIn](https://www.linkedin.com/in/ZahoorOnly)
+- ✍️ Sharing thoughts on AI & XAI & GenAI
 
 ## Analytics
 
@@ -77,7 +77,6 @@
 </div>
 
 ---
-
 
 ### 💭 **Daily Inspiration**
 
