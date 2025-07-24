@@ -135,7 +135,7 @@ const developer = new ZahoorAhmad();
 <br><br>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white"/>
 <br><br>
 <a href="https://mhkmart.co.uk">🌐 Live Demo</a>
 </td>
@@ -153,13 +153,16 @@ const developer = new ZahoorAhmad();
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/🏆_RAG_NEWS_AI-000000?style=for-the-badge&logoColor=white" height="40"/>
 <br><br>
-<strong>AI Content Generator (Winner)</strong>
+<strong>RAG NEWS GENERATOR (Winner)</strong>
 <br><br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI/ML-000000?style=flat&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-000000?style=flat&logo=groq&logoColor=white"/>
 <br><br>
 <a href="https://github.com/zahooronly/aigineers-rag-news-generator">📂 GitHub</a>
+<a href="https://rag-news-generator.vercel.app/"> 🌐 Live Demo</a>
 </td>
 </tr>
 </table>
@@ -172,8 +175,8 @@ const developer = new ZahoorAhmad();
 <strong>AgriTech AI Platform</strong>
 <br><br>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-000000?style=flat&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 <br><br>
 <a href="https://fassal-ai.vercel.app">🌐 Live Demo</a> • <a href="https://fassalai.com">🏢 Domain</a>
 </td>
@@ -223,25 +226,15 @@ const developer = new ZahoorAhmad();
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/DATABASE-000000?style=for-the-badge" height="30"/>
 <br><br>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/DEVOPS-000000?style=for-the-badge" height="30"/>
 <br><br>
-<img src="https://skillicons.dev/icons?i=aws,azure,vercel,docker,git" />
+<img src="https://skillicons.dev/icons?i=aws,vercel,docker,git" />
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-
-![Snake animation](https://github.com/ZahoorOnly/ZahoorOnly/blob/output/github-contribution-snake.svg)
 
 </div>
 
