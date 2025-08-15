@@ -14,7 +14,7 @@
 - 🧠 CS Grad | 🧑‍🏫 Educator | 🧪 Researcher
 - 🛠️ T3 Stack, MERN, React Native, Python & FastAPI
 - 🧬 Learning: LangChain, XAI, ML/DL, Web Scraping
-- 🚀 Building [Portfolio](https://zahooronly.vercel.app)
+- 🚀 Building [Portfolio](https://zahooronly.vercel.app) & [Promptify](https://github.com/zahooronly/promptify)
 - ✍️ Sharing thoughts on AI & XAI & GenAI
 
 ## Analytics
