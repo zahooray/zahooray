@@ -6,7 +6,7 @@
   <a href="https://github.com/ZahoorOnly">GitHub</a> •
   <a href="https://leetcode.com/ZahoorOnly">LeetCode</a> •
   <a href="https://zahooronly.vercel.app">Portfolio</a> •
-  <a href="mailto:i.am.zahoor.a@outlook.com">Email</a>
+  <a href="mailto:dev.zahoor@gmail.com">Email</a>
 </p>
 
 ### 👨‍💻 About Me
