@@ -14,7 +14,7 @@
 - 🧠 CS Grad | 🧑‍🏫 Educator | 🧪 Researcher
 - 🛠️ T3 Stack, MERN, React Native, Python & FastAPI
 - 🧬 Learning: LangChain, XAI, ML/DL, Web Scraping
-- 🚀 Building [Portfolio](https://zahooronly.vercel.app) & [Promptify](https://github.com/zahooronly/promptify)
+- 🚀 Building [Portfolio](https://zahooronly.vercel.app) & [Promptify](https://github.com/zahooray/promptify)
 - ✍️ Sharing thoughts on AI & XAI & GenAI
 
 ## Analytics
@@ -22,17 +22,17 @@
   <!-- GitHub Streak Stats with enhanced styling -->
   <div style="display: flex; justify-content: center; gap: 5px; margin-top: 20px;">
 
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=ZahoorOnly&theme=transparent&hide_border=true&stroke=4B0082&ring=FF1493&fire=FF4500&currStreakNum=4B0082&currStreakLabel=4B0082&sideNums=4B0082&sideLabels=4B0082&dates=666666&background=FFFFFF&border=4B0082&stroke_width=2&ring_width=4&fire_width=4" alt="Streak Stats" />
+  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=zahooray&theme=transparent&hide_border=true&stroke=4B0082&ring=FF1493&fire=FF4500&currStreakNum=4B0082&currStreakLabel=4B0082&sideNums=4B0082&sideLabels=4B0082&dates=666666&background=FFFFFF&border=4B0082&stroke_width=2&ring_width=4&fire_width=4" alt="Streak Stats" />
 
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ZahoorOnly&show_icons=true&theme=transparent&hide_border=true&title_color=4B0082&text_color=4B0082&icon_color=FF1493&bg_color=FFFFFF&border_color=4B0082&include_all_commits=true&count_private=true" alt="📊 GitHub Stats" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=zahooray&show_icons=true&theme=transparent&hide_border=true&title_color=4B0082&text_color=4B0082&icon_color=FF1493&bg_color=FFFFFF&border_color=4B0082&include_all_commits=true&count_private=true" alt="📊 GitHub Stats" />
 
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahoorOnly&layout=compact&theme=transparent&hide_border=true&title_color=4B0082&text_color=4B0082&bg_color=FFFFFF&border_color=4B0082&langs_count=8" alt="💻 Top Languages" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahooray&layout=compact&theme=transparent&hide_border=true&title_color=4B0082&text_color=4B0082&bg_color=FFFFFF&border_color=4B0082&langs_count=8" alt="💻 Top Languages" />
 
   </div>
 
 ### **CONTRIBUTION FLOW**
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZahoorOnly&theme=minimal&hide_border=true&bg_color=000000&color=ffffff&line=FF6B6B&point=FF6B6B&area=true&area_color=FFE5E5&height=300" alt="Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zahooray&theme=minimal&hide_border=true&bg_color=000000&color=ffffff&line=FF6B6B&point=FF6B6B&area=true&area_color=FFE5E5&height=300" alt="Contribution Graph"/>
 
 ---
 
@@ -70,9 +70,9 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ZahoorOnly&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/zahooronly?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=000000" alt="GitHub Followers"/>
-<img src="https://img.shields.io/github/stars/zahooronly?label=TOTAL+STARS&style=for-the-badge&color=000000&labelColor=000000" alt="GitHub Stars"/>
+<img src="https://komarev.com/ghpvc/?username=zahooray&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/zahooray?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=000000" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/stars/zahooray?label=TOTAL+STARS&style=for-the-badge&color=000000&labelColor=000000" alt="GitHub Stars"/>
 
 </div>
 
