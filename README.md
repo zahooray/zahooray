@@ -60,15 +60,3 @@
 **DevOps & Tools**  
 [`Vercel`](https://vercel.com/) • [`Firebase`](https://firebase.google.com/) • [`Docker`](https://www.docker.com/) • [`Git`](https://git-scm.com/) • [`Figma`](https://www.figma.com/)
 
----
-
-## 📈 Profile Analytics
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=zahooray&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/zahooray?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=000000" alt="GitHub Followers"/>
-<img src="https://img.shields.io/github/stars/zahooray?label=TOTAL+STARS&style=for-the-badge&color=000000&labelColor=000000" alt="GitHub Stars"/>
-
-</div>
-
