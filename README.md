@@ -24,10 +24,6 @@
 
   <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=zahooray&theme=transparent&hide_border=true&stroke=4B0082&ring=FF1493&fire=FF4500&currStreakNum=4B0082&currStreakLabel=4B0082&sideNums=4B0082&sideLabels=4B0082&dates=666666&background=FFFFFF&border=4B0082&stroke_width=2&ring_width=4&fire_width=4" alt="Streak Stats" />
 
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=zahooray&show_icons=true&theme=transparent&hide_border=true&title_color=4B0082&text_color=4B0082&icon_color=FF1493&bg_color=FFFFFF&border_color=4B0082&include_all_commits=true&count_private=true" alt="📊 GitHub Stats" />
-
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahooray&layout=compact&theme=transparent&hide_border=true&title_color=4B0082&text_color=4B0082&bg_color=FFFFFF&border_color=4B0082&langs_count=8" alt="💻 Top Languages" />
-
   </div>
 
 ### **CONTRIBUTION FLOW**
@@ -76,12 +72,3 @@
 
 </div>
 
----
-
-### 💭 **Daily Inspiration**
-
-<blockquote>
-  <p style="margin: 0; font-size: 1.1em; font-style: italic;">
-    "Code is poetry. Every line we write has the power to create something beautiful and meaningful."
-  </p>
-</blockquote>
