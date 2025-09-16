@@ -2,9 +2,9 @@
 <h3 align="center">Full Stack Engineer | GenAI Enthusiast | Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ZahoorOnly">LinkedIn</a> •
-  <a href="https://github.com/ZahoorOnly">GitHub</a> •
-  <a href="https://leetcode.com/ZahoorOnly">LeetCode</a> •
+  <a href="https://linkedin.com/in/zahooray">LinkedIn</a> •
+  <a href="https://github.com/zahooray">GitHub</a> •
+  <a href="https://leetcode.com/zahooray">LeetCode</a> •
   <a href="https://zahooronly.vercel.app">Portfolio</a> •
   <a href="mailto:dev.zahoor@gmail.com">Email</a>
 </p>
